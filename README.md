@@ -30,7 +30,7 @@ Perfect for real-time detection services and backend CV pipelines.
 
 3. Launch FastAPI:
    ```bash
-   uvicorn main:app --reload
+   uvicorn app:app --reload
 
 4. Access API docs:
    - http://127.0.0.1:8000/docs
